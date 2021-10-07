@@ -3,7 +3,7 @@
     <property name="created">2021-10-07T22:14:41</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-10-07T22:16:31</property>
+    <property name="modified">2021-10-07T22:41:45</property>
     <property name="originalScheme">_@user_Blackboard</property>
   </metaInfo>
   <colors>
@@ -1433,7 +1433,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f8" />
-        <option name="BACKGROUND" value="c1021" />
+        <option name="BACKGROUND" value="80b17" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -1549,6 +1549,16 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
+    <option name="org.rust.ASSOC_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff00fb" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ff00fb" />
+      </value>
+    </option>
     <option name="org.rust.ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="d28bff" />
@@ -1559,6 +1569,11 @@
         <option name="FOREGROUND" value="77ee66" />
       </value>
     </option>
+    <option name="org.rust.CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="c800ff" />
+      </value>
+    </option>
     <option name="org.rust.CONST_PARAMETER">
       <value>
         <option name="FOREGROUND" value="e600ff" />
@@ -1566,7 +1581,7 @@
     </option>
     <option name="org.rust.CRATE">
       <value>
-        <option name="FOREGROUND" value="1cc904" />
+        <option name="FOREGROUND" value="ffa0" />
       </value>
     </option>
     <option name="org.rust.ENUM">
@@ -1585,14 +1600,70 @@
         <option name="FOREGROUND" value="77ee66" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff8800" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ff8800" />
+      </value>
+    </option>
+    <option name="org.rust.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff3434" />
+      </value>
+    </option>
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="ffd9" />
       </value>
     </option>
+    <option name="org.rust.METHOD">
+      <value>
+        <option name="FOREGROUND" value="ff8800" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="ff8800" />
+      </value>
+    </option>
     <option name="org.rust.MODULE">
       <value>
-        <option name="FOREGROUND" value="1cc904" />
+        <option name="FOREGROUND" value="ff4dde" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="55ea00" />
+      </value>
+    </option>
+    <option name="org.rust.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="80ff" />
+      </value>
+    </option>
+    <option name="org.rust.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="91ff4e" />
+      </value>
+    </option>
+    <option name="org.rust.PRIMITIVE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="ffdf00" />
+      </value>
+    </option>
+    <option name="org.rust.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="org.rust.STRUCT">
@@ -1607,17 +1678,22 @@
     </option>
     <option name="org.rust.TYPE_ALIAS">
       <value>
-        <option name="FOREGROUND" value="70c904" />
+        <option name="FOREGROUND" value="1cc904" />
       </value>
     </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="1ee4ea" />
+        <option name="FOREGROUND" value="ffc2" />
       </value>
     </option>
     <option name="org.rust.UNION">
       <value>
         <option name="FOREGROUND" value="1cc904" />
+      </value>
+    </option>
+    <option name="org.rust.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dfff89" />
       </value>
     </option>
   </attributes>

@@ -1,0 +1,21 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-10-07T21:46:00</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2021-10-07T22:50:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="org.rust.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="4276d9" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="399e2e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
