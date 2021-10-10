@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <RsCodeStyleSettings>
+    <option name="ALLOW_ONE_LINE_MATCH" value="true" />
+    <option name="SPACE_AROUND_ASSOC_TYPE_BINDING" value="true" />
+  </RsCodeStyleSettings>
+  <codeStyleSettings language="Rust">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
