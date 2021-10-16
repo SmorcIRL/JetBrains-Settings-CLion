@@ -11,10 +11,17 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Editor Redo">
@@ -29,6 +36,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Git.Commit.Stage" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
