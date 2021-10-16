@@ -1,4 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -11,6 +16,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
